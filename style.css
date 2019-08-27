@@ -2,6 +2,7 @@ nav {
   width: 80%;
   text-align: center;
   background-color: rgb(240, 156, 156);
+  margin: auto;
 }
 a {
   border-right: 2px solid black;
