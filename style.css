@@ -15,3 +15,8 @@ a {
 a#contact {
   border: none;
 }
+#mice {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
